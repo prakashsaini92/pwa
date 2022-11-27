@@ -1,7 +1,7 @@
 {
   "name": "badaya-pwa",
   "version": "0.1.0",
-  "homepage": "https://prakashsaini92.github.io/bhapp",
+  "homepage": "https://prakashsaini92.github.io/pwa",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
