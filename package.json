@@ -1,7 +1,7 @@
 {
   "name": "badaya-pwa",
   "version": "0.1.0",
-  "homepage": "https://prakashsaini92.github.io/pwa",
+  "homepage": "./",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.2.1",
