@@ -1,0 +1,20 @@
+nav.footer-bottom .navbar-nav .nav-link {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}nav.footer-bottom .navbar-nav {
+    display: flex;
+    align-items: center;
+    width: 100%;
+}nav.footer-bottom .navbar-nav .nav-link button {
+    border: none;
+    background: transparent;
+    outline: none;
+}nav.footer-bottom .navbar-nav .nav-link button i {
+    font-size: 34px !important;
+}nav.footer-bottom .navbar-nav .nav-link span {
+    font-size: 13px !important;
+    line-height: 7px;
+    margin-bottom: 3px;
+}
