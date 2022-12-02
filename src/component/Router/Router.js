@@ -14,8 +14,8 @@ const Router = () => {
         <Routes location={location}>
             <Route path="/" element={<App />}>
                 <Route index path="/" element={<HomePage />} />
-                
                 <Route  path="/upload" element={<Grid />} />
+                <Route  path="/contact" element={<HomePage />} />
              </Route>
 
           </Routes>
